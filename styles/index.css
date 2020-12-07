@@ -10,7 +10,7 @@ html{
     /* background-size: 100%; */
     background-size: cover;
     background-attachment: fixed;
-    background-image: url("/home/shipra/Downloads/upgrad/Project Scribbler/Scribbler/images/background.jpg");
+    background-image: url("../images/background.jpg");
 }
  
   /* Set a style for the rest of the elements besides the header elements on the index.html page */
