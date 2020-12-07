@@ -1,6 +1,6 @@
 
 function goToPostList() {
-    location.href = "/home/shipra/Downloads/upgrad/Project Scribbler/Practice Scribbler/html/postslist.html"
+    location.href = "/home/shipra/Downloads/upgrad/Project Scribbler/Scribbler/html/postslist.html"
 }
 
 function showCreatePostModal() {
